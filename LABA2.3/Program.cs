@@ -1,6 +1,3 @@
-﻿using System.ComponentModel.Design;
-using System.Runtime.InteropServices;
-
 try
 {
     //const double a = 45;
